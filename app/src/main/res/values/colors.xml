@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimaryDark">#FF000000</color>
+    <color name="text_gray">#888787</color>
+    <color name="coin_purple">#A529FF</color>
+    <color name="color_currency">#03A9F4</color>
+    <color name="minimum_coin_price">#CA0202</color>
+    <color name="maximum_coin_price">#00A000</color>
+    <color name="steel_background">#8CC6D5</color>
+</resources>
